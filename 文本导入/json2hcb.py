@@ -18,13 +18,25 @@ def fuhaotihuan(text):#替换掉译文中一些不支持的常见特殊符号形
     return text.replace('—','ー').replace('～','〜').replace('“','「').replace('”','」')
 
 
-transpath='WizAnniversary_transed.json'
+transpath='.\译文\WizAnniversary_transed.json'
+hs_transpath='.\译文\hs_transed.json'
+renmingpath='.\译文\人名及设置翻译.json'
 with open(transpath,'r',encoding='utf-8') as f:
-    replacement_dict=json.load(f)
+    trans=json.load(f)
+with open(hs_transpath,'r',encoding='utf-8') as f:
+    hs_trans=json.load(f)
+with open(renmingpath,'r',encoding='utf-8') as f:
+    renming_trans=json.load(f)
+
+replacement_dict={}
+for dic in trans:
+    replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["post_zh_preview"]
+for dic in renming_trans:
+    replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["post_zh_preview"]
 
 with codecs.open('.\原文件\WizAnniversary.txt', 'r', encoding='shiftjis') as input_file:
-    with codecs.open(".\\fvp-utf8\\WizAnniversary_transed.txt", 'w', encoding='utf8') as hime:
-        with codecs.open(".\\fvp-utf8\\WizAnniversary_strings_transed.txt", 'w', encoding='utf8') as himestrings:
+    with codecs.open(".\\fvp\\WizAnniversary_transed.txt", 'w', encoding='utf8') as hime:
+        with codecs.open(".\\fvp\\WizAnniversary_strings_transed.txt", 'w', encoding='utf8') as himestrings:
             for line in input_file:
                 if line.startswith("\tpushstring "):
                     content = line.strip()[11:]
@@ -33,7 +45,7 @@ with codecs.open('.\原文件\WizAnniversary.txt', 'r', encoding='shiftjis') as 
                     if content1 in replacement_dict:
                         if len(content1)>0:
                             if not re.match(r'[A-Za-z]', content1[0]):#避免对调用资源文件的代码进行替换
-                                line = line.replace(content, replacement_dict[content1]["userTrans"])
-                                sline= replacement_dict[content1]["userTrans"]
+                                line = line.replace(content, replacement_dict[content1])
+                                sline= replacement_dict[content1]
                     himestrings.write(fuhaotihuan(hanzitihuan(sline))+'\n')
                 hime.write(fuhaotihuan(hanzitihuan(line)))

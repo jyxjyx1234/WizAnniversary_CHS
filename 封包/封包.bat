@@ -1,1 +1,0 @@
-/fvp-utf8/fvp.exe -c /fvp-utf8/hime_strings_transed.txt /fvp-utf8/hime_transed.txt /AngelWish_CHS/hime.bch
