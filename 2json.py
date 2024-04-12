@@ -1,3 +1,4 @@
+#本文件用于将hcb拆包得到的txt文件转化为galtransl所需的json文件
 import json  
 import re
 
