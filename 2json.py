@@ -2,8 +2,8 @@ import json
 import re
 
 # 定义输入和输出文件的名字  
-input_filename = "D:\WizANNIVERSARY_chs\原文件\hs.txt"
-output_filename = "D:\WizANNIVERSARY_chs\原文件\hs.json"
+input_filename = ".\原文件\hs.txt"
+output_filename = ".\原文件\hs.json"
 
 def zhuyinchuli(text):#处理注音（已经在文本编辑器中处理过了）
     text=re.sub('\[([^|\]]+)\|','',text)
