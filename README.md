@@ -45,11 +45,20 @@
 
 ##### 重新封包
 
-下载本项目的所有文件，点击 `一键封包.cmd`即可在 `WizAnniversary_chs`文件夹中生成新的bch文件。汉化文本在 `译文`文件夹中，如发现错翻等问题可以修改json文件中的 `"post_zh_preview"`项，然后重新封包。
+下载本项目的所有文件，点击 `一键封包.cmd`即可在 `WizAnniversary_chs`文件夹中生成新的bch文件。汉化文本在 `译文`文件夹中，如发现错翻等问题可以修改json文件中的 `"post_zh_preview"`项，然后重新封包。注意，替换bch文件后之前的存档会全部失效。
 
 ##### 修改配置
 
 本补丁使用了[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)进行文本显示修正、字体处理、转区等。修改 `uif_config.json`文件可调整字体等设置，详见[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)项目的说明。
+
+### 校对内容
+
+目前已发现并校正的gpt翻译问题：
+
+* 部分人名不统一（开头部分字典未正确设置带来的遗留问题）
+* "姉弟"被错译为兄妹
+* 爱丽丝"にゅるる〜"的口癖翻译不统一
+* 文本中 `<汁><怒><愛>`等调用特殊字符的指令被gpt错误理解并滥用
 
 ### 致谢
 
