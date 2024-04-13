@@ -15,7 +15,7 @@ def hanzitihuan(text):#按照字典替换不支持的汉字，后续通过Univer
     return replaced_string
 
 def fuhaotihuan(text):#替换掉译文中一些不支持的常见特殊符号形式，以正常显示
-    return text.replace('—','ー').replace('～','〜').replace('“','「').replace('”','」')
+    return text.replace('—','ー').replace('～','〜').replace('“','「').replace('”','」').replace('·','・')
 
 
 transpath='.\译文\WizAnniversary_transed.json'
