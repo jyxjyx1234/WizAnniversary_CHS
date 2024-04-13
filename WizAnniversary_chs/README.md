@@ -1,79 +1,59 @@
-# AngelWish_CHS
+# **WizAnniversary_CHS**
 
-FAVORITE处女作AngelWish GPT机翻汉化补丁
+此项目是[FAVORITE](http://www.favo-soft.jp/ "このブランドの公式サイトを開く")社ウィズ アニバーサリィー☆COMPLETE！（WizAnniversary☆COMPLETE！）的GPT4翻译补丁。ウィズ アニバーサリィー☆COMPLETE！是包含了本篇以及FD ウィズ アニバーサリィー☆FUNTA！feat. RURU的整合版。
 
-本项目是FAVORITE处女作Angel Wish的GPT3.5机翻补丁，对译名、专有名词等尽可能进行了校对，水希、早知线随缘进行了润色。本补丁仅供交流学习使用。
+由于GPT4汉化质量较高，全篇未进行校对，后续可能更新（指在推的时候随缘改一些翻的离谱的句子）。由于GPT的限制，部分台词没有进行翻译(约150行)。限制级剧情使用GPT3.5进行翻译。
 
-#### 游戏信息
+本项目以交流ChatGPT翻译为目的，仅供交流学习。请在购买了[游戏本体](https://www.getchu.com/soft.phtml?id=664010)的基础上使用。
 
-* ブランド：    FAVORITE
-* 定価：    ￥8,800 (税込￥9,504)
-* 発売日：    2004/05/28
-* メディア：    CD-ROM 3枚組
-* ジャンル：    どきどき召使いADV
-* JANコード：    4526457400317
-* 原画：    司田カズヒロ
-* シナリオ：    水間ホシひと、前山信頼
-* 商品同梱特典：    マキシCD同梱
-* サブジャンル ：    アドベンチャー
+![1712935638228](image/README/1712935638228.png)
 
-本体购买/介绍：[http://www.getchu.com/soft.phtml?id=29162](http://www.getchu.com/soft.phtml?id=29162)
+### 游戏信息
 
-#### 使用说明
+（摘自getchu）
 
-##### 懒人版
+|     ブランド： | [FAVORITE](http://www.favo-soft.jp/ "このブランドの公式サイトを開く")[（このブランドの作品一覧）](https://www.getchu.com/php/search.phtml?search_brand_id=25015)                                                                                                                      |
+| -------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         定価： | ￥6,800 (税込￥7,480)                                                                                                                                                                                                                                                        |
+|       発売日： | 2009/09/18                                                                                                                                                                                                                                                                   |
+|     メディア： | DVD-ROM 2枚組                                                                                                                                                                                                                                                                |
+|     ジャンル： | スラップスティック魔女っ娘ADV                                                                                                                                                                                                                                                |
+|    JANコード： | 4582309790012                                                                                                                                                                                                                                                                |
+|         原画： | [司田カズヒロ](https://www.getchu.com/php/search.phtml?person=%BB%CA%C5%C4%A5%AB%A5%BA%A5%D2%A5%ED)、[GT](https://www.getchu.com/php/search.phtml?person=GT)                                                                                                                       |
+|     シナリオ： | [伽遠蒔絵](https://www.getchu.com/php/search.phtml?person=%B2%C0%B1%F3%BC%AC%B3%A8)、[舞浜ののか](https://www.getchu.com/php/search.phtml?person=%C9%F1%C9%CD%A4%CE%A4%CE%A4%AB)、[水間ホシひと](https://www.getchu.com/php/search.phtml?person=%BF%E5%B4%D6%A5%DB%A5%B7%A4%D2%A4%C8) |
+| アーティスト： | UR＠N、unMOMENT、中原涼                                                                                                                                                                                                                                                      |
+|    作詞/作曲： | UR＠N、新堂真弓、中原涼、WACHA                                                                                                                                                                                                                                               |
+| 商品同梱特典： | マジカル☆サウンドディスク（デジタルデータ収録）                                                                                                                                                                                                                             |
+| サブジャンル： | [セット商品](https://www.getchu.com/all/genre.html?sub_genre_id=332)、[アドベンチャー](https://www.getchu.com/all/genre.html?sub_genre_id=308) [[一覧]](https://www.getchu.com/php/sub_genre.phtml)                                                                                   |
+|     カテゴリ： | ファンタジー、[女子学生](https://www.getchu.com/php/search.phtml?category[0]=C3_B025)、[魔法少女](https://www.getchu.com/php/search.phtml?category[0]=C3_B012)、[恋愛](https://www.getchu.com/php/search.phtml?category[0]=C3_F021) [[一覧]](https://www.getchu.com/pc/genre.html)       |
 
-安装游戏本体后，将release中的所有内容复制到安装目录中，双击AngelWish_chs.exe即可运行。自带了LE所以无需再转区运行。
+简介/本体购买：[https://www.getchu.com/soft.phtml?id=664010](https://www.getchu.com/soft.phtml?id=664010)
+
+### 游戏简介
+
+（原版简介，摘自官网，使用GTP4翻译）
+
+別に不思議も何もない。ここには在る――魔法がある……魔法使いが居る！「アルヴィース魔法魔術学院」は、名前の通り魔法を教える巨大な学院。数々の大魔法使いを生み出してきた由緒ある学舎。そこに何故か主人公・デュオは入学させられてしまった。優等生やお金持ちや変人や姉や後輩や先輩や先生に囲まれて過ごす日々。暴風雨みたいな日々と、魔法と、不思議と、あとほんの少しの…秘密。それと、やりたくなくてもやるしかない魔法の勉強。そして、魔女の祝祭「ウィズ アニバーサリィー」が開催される。ヒロインたちとのドタバタな学院生活の先にあるものは……!?
+
+没什么不可思议的。存在于此的——就是魔法……有魔法使！「阿尔维斯魔法魔术学院」正如其名，是一所教授魔法的巨大学院，诞生了许多伟大的魔法使。而主人公迪欧不知为何被送入了这所学校。他的日子被优等生、富家子弟、怪人、姐姐、后辈、前辈和老师们包围着。那些像暴风雨般的日子里，有魔法、有奇迹，还有那么一点点的……秘密。还有，即使不想也不得不做的魔法学习。而且，魔女节「魔法使周年纪念日」也即将到来。在这些混乱的学院生活后，等待着主人公和女主角们的将是……！？
+
+### 使用说明
+
+购买并正确安装游戏本体，下载release中的补丁（或下载`WizAnniversary_chs`文件夹中的内容），将其中所有内容放至游戏所在文件夹，点击`WizAnniversary_chs.exe`启动汉化版。
 
 ##### 重新封包
 
-文本在根目录下的json文件中。当修改文本后，点击一键封包脚本，即可在AngelWish_CHS文件夹中找到更新后的封包文件。
+下载本项目的所有文件，点击 `一键封包.cmd`即可在`WizAnniversary_chs`文件夹中生成新的bch文件。汉化文本在`译文`文件夹中，如发现错翻等问题可以修改json文件中的 `"post_zh_preview"`项，然后重新封包。
 
-##### 配置调节
+##### 修改配置
 
-[ufi_config.json](https://github.com/jyxjyx1234/AngelWish_CHS/blob/main/AngelWish_CHS/uif_config.json)中可以调节字体等配置。具体参见[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)项目的说明。
+本补丁使用了[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)进行文本显示修正、字体处理、转区等。修改`uif_config.json`文件可调整字体等设置，详见[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)项目的说明。
 
-#### 已知问题
-
-重新修改文本、重新封包并替换文件后读取之前的存档会闪退（好在本作skip特别快）。
-
-标题栏有乱码，懒得再折腾了。设定里的乱码是音量设置，最后一个乱码是开启快进。
-
-#### 致谢
+### 致谢
 
 本补丁使用了以下开源项目：
 
-* [fvp](https://github.com/Tabing010102/fvp)  : 对hcb脚本进行了拆封包
+* [fvp](https://github.com/Tabing010102/fvp)  : 对hcb脚本进行拆封包
 * [GalTransl](https://github.com/xd2333/GalTransl) ：自动化翻译工具
-* [UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)：对汉化后的文本进行修正
+* [UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)：对汉化后的文本进行修正以正常显示
 * [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) ：转区运行
-
-补丁制作过程中也从很多文章中受到了启发，如：
-
-* [就算是笨蛋笨蛋也能用的星空的记忆HD汉化版制作指南](https://tieba.baidu.com/p/7354039956#)
-* [FAVORITE引擎VM及脚本结构分析](https://bbs.sumisora.net/read.php?tid=11010281)
-* [[Gal汉化入门教程]#3.1 编码&amp;范围校验修改演示](https://www.bilibili.com/read/cv12543346/)
-
-还要感谢为我提供了帮助的网友\同学：kf论坛的injustice1、乾坤坎离、snowrain；[星外之神](https://github.com/wszqkzqk)。
-
-特别感谢[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)的作者[AtomCrafty](https://github.com/AtomCrafty)，不厌其烦的帮我解决了在使用[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)时遇到的问题。
-
-#### 杂谈
-
-搜F社的老物时看见了这部作品，看见白毛萝莉就想推了。最近玩了好几部gpt翻译的作品，感觉效果还挺好，于是尝试了使用gpt进行了汉化。开始使用的是gpt4，效果非常好，但是汉化了大约6000行后发现花销过大，于是后面改用了3.5。由于几乎完全没有代码基础（只会一点点python），从解包、文本提取，特别是最后的封包和处理编码问题简直步步碰壁，好在有热心网友的帮助以及大佬的教程，折腾了一个清明节假期才终于搞出来。
-
-汉化文本先用ctrl+F修正了一些专有名词的问题，接着准备边推边看心情润色。限制级部分就懒得润色了。
-
-#### 吐槽
-
-本作作为F社的处女作，与目前已经汉化了的作品从画风到剧本风格差别都很大。本作说实话也不算优秀，还有挺多雷点的。
-
-2024.4.7
-
-推完了早知线，剧情极其神秘，男主的操作简直出生……
-
-2024.4.9
-
-推完了水希线，这条线很不错，不愧是真女主（或许），人物塑造的很好，剧情节奏也很舒服，糖度也够，挺王道的剧本的。
-
-其他线暂时不想推了，也就不继续进行校对了。原本喜欢的白毛（金毛？）萝莉实在是有点屑了，听说还有雷，结果还是没推（
