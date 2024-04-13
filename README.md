@@ -1,5 +1,7 @@
 # **WizAnniversary_CHS**
 
+*にゅるる〜*
+
 此项目是[FAVORITE](http://www.favo-soft.jp/ "このブランドの公式サイトを開く")社ウィズ アニバーサリィー☆COMPLETE！（WizAnniversary☆COMPLETE！）的GPT4翻译补丁。ウィズ アニバーサリィー☆COMPLETE！是包含了本篇以及FD ウィズ アニバーサリィー☆FUNTA！feat. RURU的整合版。
 
 正在对译名和明显的错译等进行校对。由于GPT的限制，部分台词没有进行翻译(约150行)。限制级剧情使用GPT3.5进行翻译。
