@@ -4,7 +4,7 @@ import json
 from hanzidict import hanzidict
 
 def teshuzifutihuan(text):#匹配时去除特殊字符
-    text = text.replace("♪", "").replace("・", "").replace("〜", "").replace("～", "").replace("?", "").replace(" ", "").replace('\u3000','').replace('\t','').replace(']','')
+    text = text.replace("♪", "").replace("・", "").replace("〜", "").replace("～", "").replace("?", "").replace(" ", "").replace('\u3000','').replace('\t','').replace(']','').replace('[・|','')
     text=re.sub('\[([^|\]]+)\|','',text)#删除脚本中的注音标识
     return text
 
