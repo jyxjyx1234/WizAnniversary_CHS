@@ -9425,11 +9425,11 @@
         "name": "デュオ",
         "pre_jp": "この辺がいいかな～<愛>　さあさあ座りたまえよ君",
         "post_jp": "この辺がいいかな～<愛>　さあさあ座りたまえよ君",
-        "pre_zh": "这里怎么样～<爱>　来吧，坐下吧，亲爱的",
+        "pre_zh": "这里怎么样～<愛>　来吧，坐下吧，亲爱的",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "这里怎么样～<爱>　来吧，坐下吧，亲爱的"
+        "post_zh_preview": "这里怎么样～<愛>　来吧，坐下吧，亲爱的"
     },
     {
         "index": 857,
@@ -9722,11 +9722,11 @@
         "name": "シャル",
         "pre_jp": "んぶ‥‥はむ‥‥んんちゅ‥‥ちゅぐ‥‥",
         "post_jp": "んぶ‥‥はむ‥‥んんちゅ‥‥ちゅぐ‥‥",
-        "pre_zh": "嗯……<啊>……<唔>……<啾>……<啾>……",
+        "pre_zh": "嗯……啊……唔……啾……啾……",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "嗯……<啊>……<唔>……<啾>……<啾>……"
+        "post_zh_preview": "嗯……啊……唔……啾……啾……"
     },
     {
         "index": 884,
@@ -9898,12 +9898,12 @@
         "name": "シャル",
         "pre_jp": "んぶ、んぐ‥‥ちゅぐ、んちゅる、んん‥‥っ！",
         "post_jp": "んぶ、んぐ‥‥ちゅぐ、んちゅる、んん‥‥っ！",
-        "pre_zh": "嗯……<啊>、<啾>……<唔>、<啾>、<啊>、<嗯>……！",
+        "pre_zh": "嗯……啊、啾……唔、啾、啊、嗯……！",
         "proofread_zh": "",
         "problem": "比日文长1.4倍",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "嗯……<啊>、<啾>……<唔>、<啾>、<啊>、<嗯>……！"
+        "post_zh_preview": "嗯……啊、啾……唔、啾、啊、嗯……！"
     },
     {
         "index": 900,
@@ -14078,11 +14078,11 @@
         "name": "シャル",
         "pre_jp": "ふふ、さっきと随分様子が違う<愛>　あ、まだ残ってるかも‥‥",
         "post_jp": "ふふ、さっきと随分様子が違う<愛>　あ、まだ残ってるかも‥‥",
-        "pre_zh": "呵呵，和刚才相比有很大不同呢<爱> 哎，也许还有剩余呢...",
+        "pre_zh": "呵呵，和刚才相比有很大不同呢<愛> 哎，也许还有剩余呢...",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "呵呵，和刚才相比有很大不同呢<爱> 哎，也许还有剩余呢…"
+        "post_zh_preview": "呵呵，和刚才相比有很大不同呢<愛> 哎，也许还有剩余呢…"
     },
     {
         "index": 1279,
@@ -23492,11 +23492,11 @@
         "name": "ローラ",
         "pre_jp": "ふふ‥‥今の声、女の子みたいでしたよ。可愛くて、食べちゃいたくなります<愛>",
         "post_jp": "ふふ‥‥今の声、女の子みたいでしたよ。可愛くて、食べちゃいたくなります<愛>",
-        "pre_zh": "呵呵……刚才的声音，听起来像个女孩子。好可爱，真想吃掉你<爱心>",
+        "pre_zh": "呵呵……刚才的声音，听起来像个女孩子。好可爱，真想吃掉你<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "呵呵……刚才的声音，听起来像个女孩子。好可爱，真想吃掉你<爱心>"
+        "post_zh_preview": "呵呵……刚才的声音，听起来像个女孩子。好可爱，真想吃掉你<愛>"
     },
     {
         "index": 2134,
@@ -29752,11 +29752,11 @@
         "name": "ローラ",
         "pre_jp": "あ‥‥<愛>",
         "post_jp": "あ‥‥<愛>",
-        "pre_zh": "啊……<爱>",
+        "pre_zh": "啊……<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "啊……<爱>"
+        "post_zh_preview": "啊……<愛>"
     },
     {
         "index": 2700,
@@ -32849,11 +32849,11 @@
         "name": "ローラ",
         "pre_jp": "はぁい<愛>　んちゅ、ちゅむ、んぷ‥‥んっぷ、ほあむ‥‥んふ、んぽ",
         "post_jp": "はぁい<愛>　んちゅ、ちゅむ、んぷ‥‥んっぷ、ほあむ‥‥んふ、んぽ",
-        "pre_zh": "好啦<爱>　亲，亲，嗯噗……嗯噗，啊妹……嗯呒，嗯咚",
+        "pre_zh": "好啦<愛>　亲，亲，嗯噗……嗯噗，啊妹……嗯呒，嗯咚",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "好啦<爱>　亲，亲，嗯噗……嗯噗，啊妹……嗯呒，嗯咚"
+        "post_zh_preview": "好啦<愛>　亲，亲，嗯噗……嗯噗，啊妹……嗯呒，嗯咚"
     },
     {
         "index": 2981,
@@ -32992,11 +32992,11 @@
         "name": "ローラ",
         "pre_jp": "では、デュオを修正しちゃいます<愛>",
         "post_jp": "では、デュオを修正しちゃいます<愛>",
-        "pre_zh": "那么，我来修正迪欧<爱>",
+        "pre_zh": "那么，我来修正迪欧<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "那么，我来修正迪欧<爱>"
+        "post_zh_preview": "那么，我来修正迪欧<愛>"
     },
     {
         "index": 2994,
@@ -36166,11 +36166,11 @@
         "name": "アリス",
         "pre_jp": "うまうま<愛>",
         "post_jp": "うまうま<愛>",
-        "pre_zh": "好吃好吃<爱>",
+        "pre_zh": "好吃好吃<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "好吃好吃<爱>"
+        "post_zh_preview": "好吃好吃<愛>"
     },
     {
         "index": 3282,
@@ -36265,11 +36265,11 @@
         "name": "アリス",
         "pre_jp": "うむ～<愛>",
         "post_jp": "うむ～<愛>",
-        "pre_zh": "嗯～<爱>",
+        "pre_zh": "嗯～<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "嗯～<爱>"
+        "post_zh_preview": "嗯～<愛>"
     },
     {
         "index": 3291,
@@ -36375,11 +36375,11 @@
         "name": "デュオ",
         "pre_jp": "そ、それは勘弁して下さい<汁>",
         "post_jp": "そ、それは勘弁して下さい<汁>",
-        "pre_zh": "那、那就饶了我吧<流口水>",
+        "pre_zh": "那、那就饶了我吧<汁>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "那、那就饶了我吧<流口水>"
+        "post_zh_preview": "那、那就饶了我吧<汁>"
     },
     {
         "index": 3301,
@@ -39615,11 +39615,11 @@
         "name": "アリス",
         "pre_jp": "ふふふ。デュオに大人にされてしまったのじゃ<愛>",
         "post_jp": "ふふふ。デュオに大人にされてしまったのじゃ<愛>",
-        "pre_zh": "嘻嘻嘻。被迪欧当成大人了呢<爱>",
+        "pre_zh": "嘻嘻嘻。被迪欧当成大人了呢<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "嘻嘻嘻。被迪欧当成大人了呢<爱>"
+        "post_zh_preview": "嘻嘻嘻。被迪欧当成大人了呢<愛>"
     },
     {
         "index": 3595,
@@ -44338,11 +44338,11 @@
         "name": "アリス",
         "pre_jp": "夜は違う『おかし』を堪能するのじゃ<愛>",
         "post_jp": "夜は違う『おかし』を堪能するのじゃ<愛>",
-        "pre_zh": "晚上会品尝不同的『糖果』<爱>",
+        "pre_zh": "晚上会品尝不同的『糖果』<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "晚上会品尝不同的『糖果』<爱>"
+        "post_zh_preview": "晚上会品尝不同的『糖果』<愛>"
     },
     {
         "index": 4023,
@@ -44360,12 +44360,12 @@
         "name": "アリス",
         "pre_jp": "『犯し』じゃ",
         "post_jp": "『犯し』じゃ",
-        "pre_zh": "是『犯し』<爱>",
+        "pre_zh": "是『犯し』<愛>",
         "proofread_zh": "",
         "problem": "残留日文, 比日文长1.3倍",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "是『犯し』<爱>"
+        "post_zh_preview": "是『犯し』<愛>"
     },
     {
         "index": 4025,
@@ -44504,11 +44504,11 @@
         "name": "アリス",
         "pre_jp": "可愛いデュオを生かさず殺さず、じっくりと楽しんでやるのじゃよ<愛>",
         "post_jp": "可愛いデュオを生かさず殺さず、じっくりと楽しんでやるのじゃよ<愛>",
-        "pre_zh": "不要放过可爱的迪欧，要好好地慢慢享受<爱>",
+        "pre_zh": "不要放过可爱的迪欧，要好好地慢慢享受<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "不要放过可爱的迪欧，要好好地慢慢享受<爱>"
+        "post_zh_preview": "不要放过可爱的迪欧，要好好地慢慢享受<愛>"
     },
     {
         "index": 4038,
@@ -46533,11 +46533,11 @@
         "name": "デュオ",
         "pre_jp": "さっきまで、よくも散々俺を辱めてくれたな‥‥お・姉・様<愛>",
         "post_jp": "さっきまで、よくも散々俺を辱めてくれたな‥‥お・姉・様<愛>",
-        "pre_zh": "刚才，你可真是羞辱了我呢……大、姐、大人<爱>",
+        "pre_zh": "刚才，你可真是羞辱了我呢……大、姐、大人<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "刚才，你可真是羞辱了我呢……大、姐、大人<爱>"
+        "post_zh_preview": "刚才，你可真是羞辱了我呢……大、姐、大人<愛>"
     },
     {
         "index": 4222,
@@ -50812,11 +50812,11 @@
         "name": "アリス",
         "pre_jp": "にゃ～<愛>",
         "post_jp": "な～<愛>",
-        "pre_zh": "嗯～<宠>",
+        "pre_zh": "嗯～<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "嗯～<宠>"
+        "post_zh_preview": "嗯～<愛>"
     },
     {
         "index": 4610,
@@ -52002,22 +52002,22 @@
         "name": "アリス",
         "pre_jp": "にゅふふ‥‥デュオの乳首は可愛いのう～<愛>",
         "post_jp": "にゅふふ‥‥デュオの乳首は可愛いのう～<愛>",
-        "pre_zh": "呵呵……迪欧的乳头真可爱呢～<爱>",
+        "pre_zh": "呵呵……迪欧的乳头真可爱呢～<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "呵呵……迪欧的乳头真可爱呢～<爱>"
+        "post_zh_preview": "呵呵……迪欧的乳头真可爱呢～<愛>"
     },
     {
         "index": 4718,
         "name": "グラニテ",
         "pre_jp": "膝の裏とか、意外に感じるポイントらしいデス‥‥ちゅ",
         "post_jp": "膝の裏とか、意外に感じるポイントらしいデス‥‥ちゅ",
-        "pre_zh": "膝弯似乎是个出乎意料的敏感点呢……<啾>",
+        "pre_zh": "膝弯似乎是个出乎意料的敏感点呢……啾",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "膝弯似乎是个出乎意料的敏感点呢……<啾>"
+        "post_zh_preview": "膝弯似乎是个出乎意料的敏感点呢……啾"
     },
     {
         "index": 4719,
@@ -52200,11 +52200,11 @@
         "name": "アリス",
         "pre_jp": "にゃう<愛>",
         "post_jp": "なう<愛>",
-        "pre_zh": "现在<爱>",
+        "pre_zh": "现在<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "现在<爱>"
+        "post_zh_preview": "现在<愛>"
     },
     {
         "index": 4736,
@@ -52343,11 +52343,11 @@
         "name": "グラニテ",
         "pre_jp": "やんっ<愛>",
         "post_jp": "やんっ<愛>",
-        "pre_zh": "唔<爱>",
+        "pre_zh": "唔<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "唔<爱>"
+        "post_zh_preview": "唔<愛>"
     },
     {
         "index": 4749,
@@ -52387,11 +52387,11 @@
         "name": "グラニテ",
         "pre_jp": "はいデス。もうグラニテは濡れ濡れなのデスよ～<愛>",
         "post_jp": "はいデス。もうグラニテは濡れ濡れなのデスよ～<愛>",
-        "pre_zh": "可以的哦。古拉妮蒂已经湿湿的了呢～<爱>",
+        "pre_zh": "可以的哦。古拉妮蒂已经湿湿的了呢～<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-instruct",
         "proofread_by": "",
-        "post_zh_preview": "可以的哦。古拉妮蒂已经湿湿的了呢～<爱>"
+        "post_zh_preview": "可以的哦。古拉妮蒂已经湿湿的了呢～<愛>"
     },
     {
         "index": 4753,
@@ -52651,11 +52651,11 @@
         "name": "ソフィア",
         "pre_jp": "先輩のお汁、いっぱい下さいまし<愛>",
         "post_jp": "先輩のお汁、いっぱい下さいまし<愛>",
-        "pre_zh": "前辈的汁液，请给我很多<爱>",
+        "pre_zh": "前辈的汁液，请给我很多<愛>",
         "proofread_zh": "",
         "trans_by": "gpt-3.5-turbo-1106",
         "proofread_by": "",
-        "post_zh_preview": "前辈的汁液，请给我很多<爱>"
+        "post_zh_preview": "前辈的汁液，请给我很多<愛>"
     },
     {
         "index": 4777,
