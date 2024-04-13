@@ -1,8 +1,10 @@
 # **WizAnniversary_CHS**
 
+*にゅるる〜*
+
 此项目是[FAVORITE](http://www.favo-soft.jp/ "このブランドの公式サイトを開く")社ウィズ アニバーサリィー☆COMPLETE！（WizAnniversary☆COMPLETE！）的GPT4翻译补丁。ウィズ アニバーサリィー☆COMPLETE！是包含了本篇以及FD ウィズ アニバーサリィー☆FUNTA！feat. RURU的整合版。
 
-由于GPT4汉化质量较高，全篇未进行校对，后续可能更新（指在推的时候随缘改一些翻的离谱的句子）。由于GPT的限制，部分台词没有进行翻译(约150行)。限制级剧情使用GPT3.5进行翻译。
+正在对译名和明显的错译等进行校对。由于GPT的限制，部分台词没有进行翻译(约150行)。限制级剧情使用GPT3.5进行翻译。
 
 本项目以交流ChatGPT翻译为目的，仅供交流学习。请在购买了[游戏本体](https://www.getchu.com/soft.phtml?id=664010)的基础上使用。
 
@@ -39,15 +41,24 @@
 
 ### 使用说明
 
-购买并正确安装游戏本体，下载release中的补丁（或下载`WizAnniversary_chs`文件夹中的内容），将其中所有内容放至游戏所在文件夹，点击`WizAnniversary_chs.exe`启动汉化版。
+购买并正确安装游戏本体，下载release中的补丁压缩包，或下载 `WizAnniversary_chs`文件夹中的内容（建议使用这一种方法），将其中所有内容放至游戏所在文件夹，点击 `WizAnniversary_chs.exe`启动汉化版。
 
 ##### 重新封包
 
-下载本项目的所有文件，点击 `一键封包.cmd`即可在`WizAnniversary_chs`文件夹中生成新的bch文件。汉化文本在`译文`文件夹中，如发现错翻等问题可以修改json文件中的 `"post_zh_preview"`项，然后重新封包。
+下载本项目的所有文件，点击 `一键封包.cmd`即可在 `WizAnniversary_chs`文件夹中生成新的bch文件。汉化文本在 `译文`文件夹中，如发现错翻等问题可以修改json文件中的 `"post_zh_preview"`项，然后重新封包。注意，替换bch文件后之前的存档会全部失效。
 
 ##### 修改配置
 
-本补丁使用了[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)进行文本显示修正、字体处理、转区等。修改`uif_config.json`文件可调整字体等设置，详见[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)项目的说明。
+本补丁使用了[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)进行文本显示修正、字体处理、转区等。修改 `uif_config.json`文件可调整字体等设置，详见[UniversalInjectorFramework](https://github.com/AtomCrafty/UniversalInjectorFramework)项目的说明。
+
+### 校对内容
+
+目前已发现并校正的gpt翻译问题：
+
+* 部分人名不统一（开头部分字典未正确设置带来的遗留问题）
+* "姉弟"被错译为兄妹
+* 爱丽丝"にゅるる〜"的口癖翻译不统一
+* 文本中 `<汁><怒><愛>`等调用特殊字符的指令被gpt错误理解并滥用
 
 ### 致谢
 
