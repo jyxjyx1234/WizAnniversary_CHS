@@ -33,6 +33,8 @@ for dic in trans:
     replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["post_zh_preview"]
 for dic in renming_trans:
     replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["post_zh_preview"]
+for dic in hs_trans:
+    replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["post_zh_preview"]
 
 with codecs.open('.\原文件\WizAnniversary.txt', 'r', encoding='shiftjis') as input_file:
     with codecs.open(".\\fvp\\WizAnniversary_transed.txt", 'w', encoding='utf8') as hime:
@@ -45,7 +47,8 @@ with codecs.open('.\原文件\WizAnniversary.txt', 'r', encoding='shiftjis') as 
                     if content1 in replacement_dict:
                         if len(content1)>0:
                             if not re.match(r'[A-Za-z]', content1[0]):#避免对调用资源文件的代码进行替换
-                                line = line.replace(content, replacement_dict[content1])
-                                sline= replacement_dict[content1]
+                                if replacement_dict[content1]!="Failed translation":
+                                    line = line.replace(content, replacement_dict[content1])
+                                    sline= replacement_dict[content1]
                     himestrings.write(fuhaotihuan(hanzitihuan(sline))+'\n')
                 hime.write(fuhaotihuan(hanzitihuan(line)))
