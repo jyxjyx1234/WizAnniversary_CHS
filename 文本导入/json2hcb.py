@@ -31,10 +31,14 @@ with open(renmingpath,'r',encoding='utf-8') as f:
 replacement_dict={}
 for dic in trans:
     replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["post_zh_preview"]
+    if '二人' in dic["pre_jp"]:
+        replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["pre_zh"]#这里译后字典被误用了
 for dic in renming_trans:
     replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["post_zh_preview"]
 for dic in hs_trans:
     replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["post_zh_preview"]
+    if '二人' in dic["pre_jp"]:
+        replacement_dict[teshuzifutihuan(dic["pre_jp"])]=dic["pre_zh"]#这里译后字典被误用了
 
 with codecs.open('.\原文件\WizAnniversary.txt', 'r', encoding='shiftjis') as input_file:
     with codecs.open(".\\fvp\\WizAnniversary_transed.txt", 'w', encoding='utf8') as hime:
